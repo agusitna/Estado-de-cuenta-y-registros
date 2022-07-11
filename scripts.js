@@ -1,6 +1,6 @@
 //Variables
-let login = "/Users/awisniak/Documents/Andar/Requerimientos/Facturacion/login.html";
-let index = "/Users/awisniak/Documents/Andar/Requerimientos/Facturacion/home.html";
+let login = "https://agusitna.github.io/Estado-de-cuenta-y-registros/login.html";
+let index = "https://agusitna.github.io/Estado-de-cuenta-y-registros/index.html";
 let saldoActual = 0;
 let f = new Date();
 let fechaActual = (f.getDate() + "/" + (f.getMonth() +1) + "/" + f.getFullYear());
